@@ -1,0 +1,17 @@
+{
+  "name": "web3-storage-quickstart",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Get started using web3.storage in Node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vertua Labs",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "process": "^0.11.10",
+    "web3.storage": "^3.3.2"
+  }
+}
